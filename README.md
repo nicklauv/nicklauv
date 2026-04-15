@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AcidNick
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Python and Java
+- 🌱 I’m currently learning Java, Haskell, Langium and WebAssembly
 - 📚 I'm studying Data Science at UiB
 - 💞️ I’m looking to collaborate on some secrets.
 - 📫 How to reach me: nickolaylauvik@gmail.com
