@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AcidNick
+- 👋 Hi, I’m @nicklauv
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Java, Haskell, Langium and WebAssembly
 - 📚 I'm studying Data Science at UiB
